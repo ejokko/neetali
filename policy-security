@@ -1,30 +1,30 @@
 # 📜 Politique de Confidentialité de Neetali  
 
-📅 **Dernière mise à jour : 18 mqrs 2025**  
+📅 **Dernière mise à jour : 23 Août 2025**  
 
 Bienvenue sur **Neetali** ! Nous accordons une grande importance à la protection de vos données personnelles. Cette politique décrit comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre application mobile.  
 
-## 🔍 1. Informations collectées  
+## 🔍 1. Informations collectées
+📝 Informations fournies par l’utilisateur
+Adresse e-mail et mot de passe pour créer un compte.
+Nom et prénom (optionnels).
+Préférences linguistiques et choix de contenu.
+📊 Informations collectées automatiquement
+Historique d’utilisation (écoutes, favoris, temps d’écoute).
+Version de l’application et informations techniques pour corriger d’éventuelles erreurs.
+🍪 Services d’analyse
+Nous utilisons Firebase Analytics (données anonymisées uniquement) pour analyser l’utilisation de l’application et améliorer l’expérience utilisateur.
 
-### 📝 Informations fournies par l’utilisateur  
-- Nom, prénom, e-mail (si inscription).  
-- Informations de paiement (via des prestataires sécurisés).  
-- Préférences linguistiques et choix de contenu.  
 
-### 📊 Informations collectées automatiquement  
-- Données de navigation et d’utilisation (pages consultées, temps passé, interactions).  
-- Identifiants de l’appareil (modèle, OS, version de l’application).  
-- Adresse IP et localisation approximative (si autorisé).  
-
-### 🍪 Cookies et technologies similaires  
-Nous utilisons des cookies et outils analytiques pour améliorer votre expérience.  
-
-## 🎯 2. Utilisation des données  
-Vos données sont utilisées pour :  
-✅ Fournir et personnaliser les services de **Neetali**.  
-✅ Assurer la sécurité et la maintenance technique.  
-✅ Analyser l’usage et améliorer l’expérience utilisateur.  
-✅ Envoyer des notifications et des offres (avec consentement).  
+## 🎯 2. Utilisation des données
+Vos données sont utilisées pour :
+✅ Fournir et personnaliser les services de Neetali.
+✅ Sauvegarder vos préférences et votre progression.
+✅ Assurer la sécurité et la maintenance technique.
+✅ Analyser l’usage et améliorer l’expérience utilisateur.
+✅ Envoyer des notifications importantes (si autorisées).
+❌ Pas de publicité comportementale.
+❌ Pas de vente de données à des tiers. 
 
 ## 🔄 3. Partage des données  
 Nous **ne vendons pas** vos données. Cependant, nous pouvons les partager avec :  
